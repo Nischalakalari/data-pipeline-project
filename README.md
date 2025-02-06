@@ -1,6 +1,6 @@
 # data-pipeline-project
 ##description 
-This project is focused on creating a robust data-pipeline that processes and analyses data efficiently. it includes data Extraction, inclusion and transformation (ETL) Processes. 
+This project is focused on creating a robust data-pipeline that processes and analyses data efficiently. it includes data Extraction, Transform and load (ETL) Processes. 
 
 ## Features
 - Data Ingestion from Multiple Sources
